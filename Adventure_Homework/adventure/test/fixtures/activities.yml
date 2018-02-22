@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  cost: 1.5
+  duration: 2017-11-14 10:45:15
+
+two:
+  name: MyString
+  cost: 1.5
+  duration: 2017-11-14 10:45:15
